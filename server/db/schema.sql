@@ -1,4 +1,4 @@
--- Prites Photography CMS — run once (see server/scripts/init-db.mjs)
+-- 1stcutfilms CMS — run once (see server/scripts/init-db.mjs)
 
 CREATE DATABASE IF NOT EXISTS pritesh_photography CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 USE pritesh_photography;

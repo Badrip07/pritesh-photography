@@ -22,13 +22,13 @@ export const contactContentDefaults = {
     title: "MEET THE TEAM",
     highlight: "TEAM",
     description:
-      "Fueled by our unwavering passion for advertising and film, we're here to shake up the industry. Tired of the industry's cautious approach, we founded Prites Photography to rewrite the rules. Here, it's all about pure creativity!",
+      "Fueled by our unwavering passion for advertising and film, we're here to shake up the industry. Tired of the industry's cautious approach, we founded 1stcutfilms to rewrite the rules. Here, it's all about pure creativity!",
   },
   startProjectSection: {
     title: "START A PROJECT",
     highlight: "PROJECT",
     description:
-      "Fueled by our unwavering passion for advertising and film, we're here to shake up the industry. Tired of the industry's cautious approach, we founded Prites Photography to rewrite the rules. Here, it's all about pushing boundaries, outsmarting the norm, and enjoying every thrilling moment of the journey!",
+      "Fueled by our unwavering passion for advertising and film, we're here to shake up the industry. Tired of the industry's cautious approach, we founded 1stcutfilms to rewrite the rules. Here, it's all about pushing boundaries, outsmarting the norm, and enjoying every thrilling moment of the journey!",
   },
   form: {
     sections: {

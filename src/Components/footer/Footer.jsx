@@ -73,11 +73,11 @@ const Footer = () => {
   }, []);
 
   const marqueeItems = [
-    "@PRITESH_PHOTOGRAPHY",
-    "@PRITESH_PHOTOGRAPHY",
-    "@PRITESH_PHOTOGRAPHY",
-    "@PRITESH_PHOTOGRAPHY",
-    "@PRITESH_PHOTOGRAPHY",
+    "@1stcutfilms",
+    "@1stcutfilms",
+    "@1stcutfilms",
+    "@1stcutfilms",
+    "@1stcutfilms",
   ];
 
   return (
@@ -111,7 +111,7 @@ const Footer = () => {
               <div className={styles.brandTextBlock}>
                 <img
                   src="/1st-cut-logo.png"
-                  alt="Prites Photography"
+                  alt="1stcutfilms"
                   className={styles.footerBrandLogo}
                 />
               </div>

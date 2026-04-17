@@ -42,7 +42,7 @@ app.use("/uploads", express.static(uploadRoot));
 app.use("/uploads", express.static(legacyUploadRoot));
 
 const apiRootPayload = {
-  service: "Prites Photography API",
+  service: "1stcutfilms API",
   ok: true,
   health: "/api/health",
   healthDb: "/api/health/db",
@@ -78,7 +78,7 @@ function apiRootHtml() {
 <head>
   <meta charset="utf-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <title>Prites Photography API</title>
+  <title>1stcutfilms API</title>
   <style>
     :root { color-scheme: light dark; --fg: #e8e6e3; --bg: #121418; --muted: #8b8680; --accent: #e8e8e8; --card: #1a1d24; }
     @media (prefers-color-scheme: light) {

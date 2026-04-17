@@ -557,7 +557,7 @@ const SingleJob = () => {
                   >
                     Privacy Policy
                   </a>{" "}
-                  and confirm that Prites Photography stores my personal details to be able to process my
+                  and confirm that 1stcutfilms stores my personal details to be able to process my
                   job application. <span className={styles.formRequired}>*</span>
                 </label>
               </div>

@@ -9,7 +9,7 @@ export const careerPostsDefaults = [
     payload: {
       title: "CREATIVE PRODUCER",
       description:
-        "Fueled by our unwavering passion for advertising and film, we're here to shake up the industry. Tired of the industry's cautious approach, we founded Prites Photography to rewrite the rules. Here, it's all about pushing boundaries, outsmarting the norm, and enjoying every thrilling moment of the journey!",
+        "Fueled by our unwavering passion for advertising and film, we're here to shake up the industry. Tired of the industry's cautious approach, we founded 1stcutfilms to rewrite the rules. Here, it's all about pushing boundaries, outsmarting the norm, and enjoying every thrilling moment of the journey!",
       listImage: "/career-1.jpeg",
       subtitle: "CREATIVE. REMOTE. STOCKHOLM.",
       company: "CREATVIES",
@@ -17,7 +17,7 @@ export const careerPostsDefaults = [
       type: "HYBRID",
       heroImage: "",
       aboutStudio:
-        "Welcome to Prites Photography. We are a creative studio focused on film, photography, and campaigns that feel alive. We combine craft and speed so your story lands with clarity and impact.",
+        "Welcome to 1stcutfilms. We are a creative studio focused on film, photography, and campaigns that feel alive. We combine craft and speed so your story lands with clarity and impact.",
       aboutRole:
         "We're now looking for a Production Coordinator. A resourceful, google-savvy operator who keeps our content production engine fueled with the right talent, locations, and creators. You'll be the go-to person for sourcing and booking everything we need to create scroll-stopping ads: models, actors, on-camera talent, stunning locations, and high-performing UGC creators for all our UGC ads. You'll coordinate shoots, manage talent relationships, and ensure every production day runs smoothly from brief to wrap.",
       aboutRole2:
@@ -33,7 +33,7 @@ export const careerPostsDefaults = [
     payload: {
       title: "ASSISTANT GAFFER",
       description:
-        "Fueled by our unwavering passion for advertising and film, we're here to shake up the industry. Tired of the industry's cautious approach, we founded Prites Photography to rewrite the rules. Here, it's all about pushing boundaries, outsmarting the norm, and enjoying every thrilling moment of the journey!",
+        "Fueled by our unwavering passion for advertising and film, we're here to shake up the industry. Tired of the industry's cautious approach, we founded 1stcutfilms to rewrite the rules. Here, it's all about pushing boundaries, outsmarting the norm, and enjoying every thrilling moment of the journey!",
       listImage: "/career-2.jpeg",
       subtitle: "STOCKHOLM. HYBRID.",
       company: "",
@@ -41,7 +41,7 @@ export const careerPostsDefaults = [
       type: "HYBRID",
       heroImage: "",
       aboutStudio:
-        "Welcome to Prites Photography. We are a creative studio focused on film, photography, and campaigns that feel alive. We combine craft and speed so your story lands with clarity and impact.",
+        "Welcome to 1stcutfilms. We are a creative studio focused on film, photography, and campaigns that feel alive. We combine craft and speed so your story lands with clarity and impact.",
       aboutRole:
         "We're looking for an Assistant Gaffer to join our production team. You'll work closely with our Gaffer and Director of Photography to set up and manage lighting equipment on set. This role is perfect for someone who is passionate about cinematography and wants to learn from experienced professionals.",
       aboutRole2:
@@ -61,7 +61,7 @@ export const careerPostsDefaults = [
     payload: {
       title: "MARKETING MANAGER & COORDINATOR",
       description:
-        "Fueled by our unwavering passion for advertising and film, we're here to shake up the industry. Tired of the industry's cautious approach, we founded Prites Photography to rewrite the rules. Here, it's all about pushing boundaries, outsmarting the norm, and enjoying every thrilling moment of the journey!",
+        "Fueled by our unwavering passion for advertising and film, we're here to shake up the industry. Tired of the industry's cautious approach, we founded 1stcutfilms to rewrite the rules. Here, it's all about pushing boundaries, outsmarting the norm, and enjoying every thrilling moment of the journey!",
       listImage: "/career-2.jpeg",
       subtitle: "CREATVIES. STOCKHOLM. HYBRID.",
       company: "CREATVIES",
@@ -69,7 +69,7 @@ export const careerPostsDefaults = [
       type: "HYBRID",
       heroImage: "",
       aboutStudio:
-        "Welcome to Prites Photography. We are a creative studio focused on film, photography, and campaigns that feel alive. We combine craft and speed so your story lands with clarity and impact.",
+        "Welcome to 1stcutfilms. We are a creative studio focused on film, photography, and campaigns that feel alive. We combine craft and speed so your story lands with clarity and impact.",
       aboutRole:
         "We're seeking a Marketing Manager & Coordinator to drive our brand presence and coordinate marketing initiatives. You'll be responsible for developing and executing marketing strategies, managing campaigns, and coordinating with our creative team to ensure our brand message is consistent and compelling.",
       aboutRole2:

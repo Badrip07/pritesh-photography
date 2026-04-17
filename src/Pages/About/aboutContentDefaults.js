@@ -23,7 +23,7 @@ export const aboutContentDefaults = {
       },
       {
         title: "FOUNDED BY FARMERS – 2020",
-        text: "After a commercial shoot for a farming company, Eric and Nemo realized they had something special. They decided to take the leap and founded Prites Photography. Starting small, they worked out of a small studio, taking on any project that came their way. The passion was real, and the results spoke for themselves.",
+        text: "After a commercial shoot for a farming company, Eric and Nemo realized they had something special. They decided to take the leap and founded 1stcutfilms. Starting small, they worked out of a small studio, taking on any project that came their way. The passion was real, and the results spoke for themselves.",
       },
       {
         title: "LET'S EXPAND – 2021",
@@ -35,7 +35,7 @@ export const aboutContentDefaults = {
       },
       {
         title: "OUR STUDIO, A FAMILY OF WEIRDOS – 2025",
-        text: "Today, Prites Photography is a thriving creative studio with a team of people who love what they do. They work with brands of every size, with the same passion for storytelling that started it all.",
+        text: "Today, 1stcutfilms is a thriving creative studio with a team of people who love what they do. They work with brands of every size, with the same passion for storytelling that started it all.",
       },
     ],
   },

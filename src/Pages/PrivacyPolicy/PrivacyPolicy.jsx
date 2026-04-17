@@ -18,7 +18,7 @@ const PrivacyPolicy = () => {
 
         <div className={styles.body}>
           <p>
-            Prites Photography is the data controller for the processing of personal
+            1stcutfilms is the data controller for the processing of personal
             data described in this privacy policy.
           </p>
           <p>

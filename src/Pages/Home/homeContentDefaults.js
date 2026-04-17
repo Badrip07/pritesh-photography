@@ -6,7 +6,7 @@ export const homeContentDefaults = {
     titleHighlight: "CREATE STORIES",
     titleSuffix: "AND THEY'RE F***ING GREAT",
     description:
-      "We are Prites Photography, a creative studio redefining what visual content can be. We make performance ads that convert and brand films that actually mean something. We do not just press record. We shape ideas, challenge briefs, and craft visuals that feel alive. Our work blends the real with the digital, sometimes spiced up with AI to push stories further without losing their soul.",
+      "We are 1stcutfilms, a creative studio redefining what visual content can be. We make performance ads that convert and brand films that actually mean something. We do not just press record. We shape ideas, challenge briefs, and craft visuals that feel alive. Our work blends the real with the digital, sometimes spiced up with AI to push stories further without losing their soul.",
     ctaLabel: "START A PROJECT",
   },
   marquee: {
@@ -40,13 +40,13 @@ export const homeContentDefaults = {
       "/logos/logo18.png",
     ],
     note:
-      "Prites Photography was born out of frustration with an industry that took itself too seriously. Too many people, too much talk, too little delivery, and budgets that made no sense. We built something different, fast, creative, and client-first. It did not take long before brands started to notice. Today, we are proud to be the ones they call when they want content that stands out. Just look at all these cool clients!",
+      "1stcutfilms was born out of frustration with an industry that took itself too seriously. Too many people, too much talk, too little delivery, and budgets that made no sense. We built something different, fast, creative, and client-first. It did not take long before brands started to notice. Today, we are proud to be the ones they call when they want content that stands out. Just look at all these cool clients!",
   },
   selectedWorks: {
     titlePrefix: "SELECTED",
     titleHighlight: "WORKS",
     description:
-      "Fueled by our passion for advertising and film, we are here to shake up the industry. We founded Prites Photography to rewrite the rules, push boundaries, and enjoy every thrilling moment of the journey.",
+      "Fueled by our passion for advertising and film, we are here to shake up the industry. We founded 1stcutfilms to rewrite the rules, push boundaries, and enjoy every thrilling moment of the journey.",
     moreWorkLabel: "MORE WORK",
     videos: [
       { id: 1, src: "/video1.mp4", title: "SUSHI YAMA", type: "CREATIVE BRANDFILM" },
@@ -130,7 +130,7 @@ export const homeContentDefaults = {
         title: "AI CONTENT",
         animationType: "slideRight",
         description:
-          "Powered by our unwavering passion for advertising and film, we are here to shake up the industry. Tired of the industry's cautious approach, we founded Prites Photography to rewrite the rules.",
+          "Powered by our unwavering passion for advertising and film, we are here to shake up the industry. Tired of the industry's cautious approach, we founded 1stcutfilms to rewrite the rules.",
       },
       {
         id: 2,
@@ -160,7 +160,7 @@ export const homeContentDefaults = {
       { workId: 3, titleOverride: "", descriptionOverride: "" },
     ],
     fallbackDescription:
-      "Welcome to Prites Photography, where filmmaking is redefined and stories leap off the screen! We are not just experts, we are the masters of commercial film and 3D video production.",
+      "Welcome to 1stcutfilms, where filmmaking is redefined and stories leap off the screen! We are not just experts, we are the masters of commercial film and 3D video production.",
   },
   project: {
     image: "/bigcamera.png",
@@ -168,9 +168,9 @@ export const homeContentDefaults = {
     title: "WANT A FREE PITCH?",
     ctaLabel: "BOOK YOUR CONSULTATION",
     description1:
-      "Prites Photography is your one stop shop for content production. No middle hands, no extra layers, just us. We handle everything from idea to final delivery.",
+      "1stcutfilms is your one stop shop for content production. No middle hands, no extra layers, just us. We handle everything from idea to final delivery.",
     description2:
-      "Before any contracts or commitments, we offer you a free custom pitch. 100% free of charge. No pressure. No strings attached. Just pure Prites Photography.",
+      "Before any contracts or commitments, we offer you a free custom pitch. 100% free of charge. No pressure. No strings attached. Just pure 1stcutfilms.",
   },
 };
 

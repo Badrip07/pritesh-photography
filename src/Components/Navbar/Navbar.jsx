@@ -130,7 +130,7 @@ const Navbar = () => {
             <div className={styles.logoContainer}>
               <img
                 src="/navbarlogo.png"
-                alt="Prites Photography"
+                alt="1stcutfilms"
                 className={styles.logoImg}
               />
             </div>
@@ -154,7 +154,7 @@ const Navbar = () => {
             onClick={(e) => e.stopPropagation()}
           >
             <div className={styles.mobileMenuHeader}>
-              <div className={styles.mobileBrand}>PRITESH PHOTOGRAPHY</div>
+              <div className={styles.mobileBrand}>1STCUTFILMS</div>
               <button
                 type="button"
                 className={styles.mobileClose}

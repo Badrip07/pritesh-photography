@@ -18,7 +18,7 @@ export default function Layout() {
           <div className="d-flex align-items-center gap-2 mb-4 px-1">
             <img
               src={`${SITE_ORIGIN}/logos/logo1.png`}
-              alt="Prites Photography"
+              alt="1stcutfilms"
               className="admin-logo"
               onError={(e) => {
                 e.currentTarget.style.display = "none";

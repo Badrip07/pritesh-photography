@@ -865,7 +865,7 @@ const Home = () => {
           </div>
 
           <div className={styles.heroContent}>
-            {/* <h2 className={styles.heroBrand}>PRITESH PHOTOGRAPHY</h2> */}
+            {/* <h2 className={styles.heroBrand}>1STCUTFILMS</h2> */}
 
             <div className={styles.heroTextInner}>
               <div className={styles.heroBadgeWrapper}>

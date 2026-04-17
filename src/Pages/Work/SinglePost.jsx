@@ -369,7 +369,7 @@ const SinglePost = ({ videoMode = "vimeo", baseRoute = "/work" } = {}) => {
               
               <div className={styles.campaignIntro}>
                 <div className={styles.branding} data-animate="fade-up">
-                  <span className={styles.brandText}>PRITESH PHOTOGRAPHY</span>
+                  <span className={styles.brandText}>1STCUTFILMS</span>
                   <img src="/cross.png" alt="×" className={styles.brandX} />
                   <img 
                     src={post.brandImage || `/${post.title.toLowerCase()}.png`} 
@@ -677,7 +677,7 @@ const SinglePost = ({ videoMode = "vimeo", baseRoute = "/work" } = {}) => {
               {/* Campaign Introduction Section */}
               <div className={styles.campaignIntro} data-animate="fade-up">
                 <div className={styles.branding}>
-                  <span className={styles.brandText}>PRITESH PHOTOGRAPHY</span>
+                  <span className={styles.brandText}>1STCUTFILMS</span>
                   <img src="/cross.png" alt="×" className={styles.brandX} />
                   {post.brandImage && (
                     <img 

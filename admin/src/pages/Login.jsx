@@ -40,7 +40,7 @@ export default function Login() {
         <div className="text-center mb-4">
           <img
             src={`${SITE_ORIGIN}/logos/logo1.png`}
-            alt="Prites Photography"
+            alt="1stcutfilms"
             className="admin-logo mb-2"
             style={{ maxHeight: "48px" }}
             onError={(e) => {

@@ -24,6 +24,6 @@ export const careerContentDefaults = {
     titlePrefix: "APPLY",
     titleHighlight: "FOR THE JOB",
     intro:
-      "Fueled by our unwavering passion for advertising and film, we're here to shake up the industry. Tired of the industry's cautious approach, we founded Prites Photography to rewrite the rules. Here, it's all about pushing boundaries, outsmarting the norm, and enjoying every thrilling moment of the journey!",
+      "Fueled by our unwavering passion for advertising and film, we're here to shake up the industry. Tired of the industry's cautious approach, we founded 1stcutfilms to rewrite the rules. Here, it's all about pushing boundaries, outsmarting the norm, and enjoying every thrilling moment of the journey!",
   },
 };
